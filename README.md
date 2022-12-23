@@ -1,7 +1,10 @@
  
-👋 Hi, I’m Truong Huy Hoang.
+ 👋 Hi, I’m Truong Huy Hoang.
+ 
 👀 I’m interested in play sport, travel, reading books ...
+
 🌱 I’m currently learning in Codegym Vietnam.
+
 📫 How to reach me: hoangth.finbox@gmail.com.
 
 <!--
